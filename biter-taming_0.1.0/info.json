@@ -1,0 +1,13 @@
+﻿{
+  "name": "biter-taming",
+  "version": "0.1.0",
+  "title": "Biter Taming",
+  "author": "mod-author",
+  "description": "Tame biters through egg processing with independent evolution and optional chip control.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "quality >= 2.0"
+  ]
+}
